@@ -33,7 +33,7 @@ So, let’s see how I have set it up!
 
 Following is the screenshot of the note:
 
-![Untitled](Writing%20a%20no%20code%20accountability%20tracker%20cbbd1fce986c44f58aa569c97d1c33ad/Untitled.png)
+![Untitled](https://raw.githubusercontent.com/cppfanboy/blog/master/content/articles/Writing%20a%20no%20code%20accountability%20tracker%20cbbd1fce986c44f58aa569c97d1c33ad/Untitled.png)
 
 Its a simple note, which I have called `Progress Log -  Rajat`  . It has 4 columns, which I will be filling up everyday!
 
