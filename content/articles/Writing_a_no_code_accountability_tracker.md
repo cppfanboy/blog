@@ -4,7 +4,7 @@ date: "2024-02-08"
 type: "article"
 ---
 
-Well hello friend!
+Well hello friends!
 
 I had started a few personal projects a while back and they are not going anywhere. I usually work on them whenever I get sudden boost of energy or motivation, and that just happens once in a blue moon! The last time I worked on my project was 4 months ago! This has to change!
 
